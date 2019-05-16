@@ -77,4 +77,5 @@ class TabItem {
 */
 
 const links = document.querySelectorAll(".tabs-link").forEach(link => new TabLink(link));
-//document.querySelector(`article[data-id="${pet.id}"] p`)
+
+// const Tabs  = new TabLink
